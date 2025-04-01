@@ -1,5 +1,217 @@
 [
     {
+        "id": "48165494910",
+        "type": "PushEvent",
+        "actor": {
+            "id": 187179438,
+            "login": "Homeless-API",
+            "display_login": "Homeless-API",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Homeless-API",
+            "avatar_url": "https://avatars.githubusercontent.com/u/187179438?"
+        },
+        "repo": {
+            "id": 958156324,
+            "name": "Homeless-API/Python-CLI",
+            "url": "https://api.github.com/repos/Homeless-API/Python-CLI"
+        },
+        "payload": {
+            "repository_id": 958156324,
+            "push_id": 23486865845,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "9bba872815b795916de5db929821e3ee7cf974fa",
+            "before": "96d4bec7021cb63c271707600a06bbb6760caf9c",
+            "commits": [
+                {
+                    "sha": "9bba872815b795916de5db929821e3ee7cf974fa",
+                    "author": {
+                        "email": "repeatbinary0@gmail.com",
+                        "name": "Repeat-B1nary"
+                    },
+                    "message": "GitHub_User_Activity version 1.0 compelete",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Homeless-API/Python-CLI/commits/9bba872815b795916de5db929821e3ee7cf974fa"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-03-31T20:24:54Z"
+    },
+    {
+        "id": "48164540428",
+        "type": "PushEvent",
+        "actor": {
+            "id": 187179438,
+            "login": "Homeless-API",
+            "display_login": "Homeless-API",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Homeless-API",
+            "avatar_url": "https://avatars.githubusercontent.com/u/187179438?"
+        },
+        "repo": {
+            "id": 958156324,
+            "name": "Homeless-API/Python-CLI",
+            "url": "https://api.github.com/repos/Homeless-API/Python-CLI"
+        },
+        "payload": {
+            "repository_id": 958156324,
+            "push_id": 23486398048,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "96d4bec7021cb63c271707600a06bbb6760caf9c",
+            "before": "96a3fc0e3edea88c536001a55acfebe89636d637",
+            "commits": [
+                {
+                    "sha": "96d4bec7021cb63c271707600a06bbb6760caf9c",
+                    "author": {
+                        "email": "repeatbinary0@gmail.com",
+                        "name": "Repeat-B1nary"
+                    },
+                    "message": "task manager finished, hehehehe\ud83d\ude42\u200d\u2195\ufe0f\u2728",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Homeless-API/Python-CLI/commits/96d4bec7021cb63c271707600a06bbb6760caf9c"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-03-31T19:55:27Z"
+    },
+    {
+        "id": "48164447496",
+        "type": "PushEvent",
+        "actor": {
+            "id": 187179438,
+            "login": "Homeless-API",
+            "display_login": "Homeless-API",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Homeless-API",
+            "avatar_url": "https://avatars.githubusercontent.com/u/187179438?"
+        },
+        "repo": {
+            "id": 958156324,
+            "name": "Homeless-API/Python-CLI",
+            "url": "https://api.github.com/repos/Homeless-API/Python-CLI"
+        },
+        "payload": {
+            "repository_id": 958156324,
+            "push_id": 23486352931,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "96a3fc0e3edea88c536001a55acfebe89636d637",
+            "before": "00fd9fbb40b79615c3e2c4cfad4c00257617bccd",
+            "commits": [
+                {
+                    "sha": "96a3fc0e3edea88c536001a55acfebe89636d637",
+                    "author": {
+                        "email": "repeatbinary0@gmail.com",
+                        "name": "Repeat-B1nary"
+                    },
+                    "message": "task manager finished, hehehe\ud83d\ude42\ufe0f\u2728",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Homeless-API/Python-CLI/commits/96a3fc0e3edea88c536001a55acfebe89636d637"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-03-31T19:52:30Z"
+    },
+    {
+        "id": "48164289968",
+        "type": "PushEvent",
+        "actor": {
+            "id": 187179438,
+            "login": "Homeless-API",
+            "display_login": "Homeless-API",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Homeless-API",
+            "avatar_url": "https://avatars.githubusercontent.com/u/187179438?"
+        },
+        "repo": {
+            "id": 958156324,
+            "name": "Homeless-API/Python-CLI",
+            "url": "https://api.github.com/repos/Homeless-API/Python-CLI"
+        },
+        "payload": {
+            "repository_id": 958156324,
+            "push_id": 23486276200,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "00fd9fbb40b79615c3e2c4cfad4c00257617bccd",
+            "before": "4ca30f9a602fb66a303a494eba440a51d1507499",
+            "commits": [
+                {
+                    "sha": "00fd9fbb40b79615c3e2c4cfad4c00257617bccd",
+                    "author": {
+                        "email": "repeatbinary0@gmail.com",
+                        "name": "Repeat-B1nary"
+                    },
+                    "message": "Secondary Commit",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Homeless-API/Python-CLI/commits/00fd9fbb40b79615c3e2c4cfad4c00257617bccd"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-03-31T19:47:40Z"
+    },
+    {
+        "id": "48164031902",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 187179438,
+            "login": "Homeless-API",
+            "display_login": "Homeless-API",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Homeless-API",
+            "avatar_url": "https://avatars.githubusercontent.com/u/187179438?"
+        },
+        "repo": {
+            "id": 958156324,
+            "name": "Homeless-API/Python-CLI",
+            "url": "https://api.github.com/repos/Homeless-API/Python-CLI"
+        },
+        "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "master_branch": "main",
+            "description": "This is a bunch a python projects I worked on that run with on a command line interface. ",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2025-03-31T19:39:37Z"
+    },
+    {
+        "id": "48161601735",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 187179438,
+            "login": "Homeless-API",
+            "display_login": "Homeless-API",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Homeless-API",
+            "avatar_url": "https://avatars.githubusercontent.com/u/187179438?"
+        },
+        "repo": {
+            "id": 958156324,
+            "name": "Homeless-API/Python-CLI",
+            "url": "https://api.github.com/repos/Homeless-API/Python-CLI"
+        },
+        "payload": {
+            "ref": null,
+            "ref_type": "repository",
+            "master_branch": "main",
+            "description": "This is a bunch a python projects I worked on that run with on a command line interface. ",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2025-03-31T18:27:19Z"
+    },
+    {
         "id": "48046713898",
         "type": "PushEvent",
         "actor": {
